@@ -1,5 +1,6 @@
 # ĐỒ ÁN MÔN LẬP TRÌNH WEB — KHOA CNTT (UTH K24)
 ## CỔNG THÔNG TIN NHÓM 11 & HỒ SƠ FLAGSHIP TRẦN NGỌC LÂM
+### Bài giữa kì
 
 ---
 
